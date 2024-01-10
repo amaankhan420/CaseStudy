@@ -36,7 +36,6 @@ Briefly describe the purpose of the project and its main features.
 |               |-- viewmodel/modules   # ViewModel Module and Factory
 |               |-- reposotory          # Repository for the ViewModel
 |               |-- data_classes        # Data classes for state of app
-|               |-- network             # Retrofit API interfaces
 |               |-- composables         # Jetpack Compose UI components
 |               |-- components          # Bottom Navigation bar components
 |               |-- screens             # Different app screens
